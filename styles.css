@@ -71,6 +71,10 @@
   visibility: hidden;
 }
 
+#paper-birds  {
+  visibility: hidden;
+}
+
 .button-style  {
   background-color: #838383;
   margin: 10px;
