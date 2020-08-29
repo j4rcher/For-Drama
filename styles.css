@@ -67,6 +67,10 @@
   visibility: hidden;
 }
 
+#gecko  {
+  visibility: hidden;
+}
+
 .button-style  {
   background-color: #838383;
   margin: 10px;
